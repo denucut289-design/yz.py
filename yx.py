@@ -27,7 +27,7 @@ from telegram.constants import ParseMode
 #  ⚙️ الإعدادات الرئيسية
 # ══════════════════════════════════════════════════════════════════════
 
-BOT_TOKEN  = "8430646995:AAGcLW926BWCzYLHBeB36X6GKRVA_h5t2Hg"
+BOT_TOKEN  = "8308849648:AAEsZIs3gFcpSMFlIiA0BEFPXm3uvkmhRK0"
 ADMIN_ID   = 8112511629
 DEV_TAG    = "@og5_i"
 BOT_VER    = "5.0.0"
